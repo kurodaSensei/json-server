@@ -48,5 +48,22 @@
       "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
       "icon": "https://img.icons8.com/fluent/48/000000/telegram-app.png"
     }
+  ],
+  "testimonials": [
+    {
+      "name": "User Name",
+      "photo": "https://i.pravatar.cc/150",
+      "content": "Enim non ad enim laboris culpa nisi cillum. Qui tempor eiusmod proident nulla aute proident eu irure do cillum eiusmod. Laborum excepteur laboris labore Lorem ipsum mollit reprehenderit ullamco velit enim qui. Pariatur Lorem incididunt reprehenderit consectetur consectetur ut. Qui aliquip ullamco labore sint irure deserunt consectetur."
+    },
+    {
+      "name": "User Name",
+      "photo": "https://i.pravatar.cc/150",
+      "content": "Enim non ad enim laboris culpa nisi cillum. Qui tempor eiusmod proident nulla aute proident eu irure do cillum eiusmod. Laborum excepteur laboris labore Lorem ipsum mollit reprehenderit ullamco velit enim qui. Pariatur Lorem incididunt reprehenderit consectetur consectetur ut. Qui aliquip ullamco labore sint irure deserunt consectetur."
+    },
+    {
+      "name": "User Name",
+      "photo": "https://i.pravatar.cc/150",
+      "content": "Enim non ad enim laboris culpa nisi cillum. Qui tempor eiusmod proident nulla aute proident eu irure do cillum eiusmod. Laborum excepteur laboris labore Lorem ipsum mollit reprehenderit ullamco velit enim qui. Pariatur Lorem incididunt reprehenderit consectetur consectetur ut. Qui aliquip ullamco labore sint irure deserunt consectetur."
+    }
   ]
 }
