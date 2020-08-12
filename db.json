@@ -1,20 +1,52 @@
 {
-    "menu": [
-        {
-            "title": "Home",
-            "path": "/"
-        },
-        {
-            "title": "About",
-            "path": "/about"
-        },
-        {
-            "title": "Services",
-            "path": "/services"
-        },
-        {
-            "title": "Contact",
-            "path": "/contact"
-        }
-    ]
+  "menu": [
+    {
+      "title": "Home",
+      "path": "/"
+    },
+    {
+      "title": "About",
+      "path": "/about"
+    },
+    {
+      "title": "Services",
+      "path": "/services"
+    },
+    {
+      "title": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "services": [
+    {
+      "title": "Service 1",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https://img.icons8.com/fluent/96/000000/adobe-photoshop.png"
+    },
+    {
+      "title": "Service 2",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https: //img.icons8.com/fluent/48/000000/mac-os.png"
+    },
+    {
+      "title": "Service 3",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https://img.icons8.com/fluent/48/000000/ms-edge-new.png"
+    },
+    {
+      "title": "Service 4",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https://img.icons8.com/fluent/48/000000/gimp.png"
+    },
+    {
+      "title": "Service 5",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https://img.icons8.com/fluent/48/000000/google-maps-new.png"
+    },
+    {
+      "title": "Service 6",
+      "content": "Aliquip duis cillum commodo ad consectetur est minim velit veniam sint aliqua. Ad aute reprehenderit adipisicing magna. Veniam mollit ullamco ut pariatur sint Lorem aliqua.",
+      "icon": "https://img.icons8.com/fluent/48/000000/telegram-app.png"
+    }
+  ]
 }
